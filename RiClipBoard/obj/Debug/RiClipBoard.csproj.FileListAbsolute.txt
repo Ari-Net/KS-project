@@ -1,0 +1,10 @@
+C:\Users\Arina\Desktop\RiClipBoard\bin\Debug\RiClipBoard.exe.config
+C:\Users\Arina\Desktop\RiClipBoard\bin\Debug\RiClipBoard.exe
+C:\Users\Arina\Desktop\RiClipBoard\bin\Debug\RiClipBoard.pdb
+C:\Users\Arina\Desktop\RiClipBoard\obj\Debug\RiClipBoard.csprojAssemblyReference.cache
+C:\Users\Arina\Desktop\RiClipBoard\obj\Debug\RiClipBoard.Form1.resources
+C:\Users\Arina\Desktop\RiClipBoard\obj\Debug\RiClipBoard.Properties.Resources.resources
+C:\Users\Arina\Desktop\RiClipBoard\obj\Debug\RiClipBoard.csproj.GenerateResource.cache
+C:\Users\Arina\Desktop\RiClipBoard\obj\Debug\RiClipBoard.csproj.CoreCompileInputs.cache
+C:\Users\Arina\Desktop\RiClipBoard\obj\Debug\RiClipBoard.exe
+C:\Users\Arina\Desktop\RiClipBoard\obj\Debug\RiClipBoard.pdb
